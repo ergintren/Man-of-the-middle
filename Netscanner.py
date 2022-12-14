@@ -1,4 +1,5 @@
 import scapy.all as scapy
+from scapy_http import http
 import optparse
 
 def user_input():
